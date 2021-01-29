@@ -4,20 +4,29 @@ A NLP Processing pipeline in Java.
 ---
 ## Contributors
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[1.1.1]: https://mobile.twitter.com/Aadharsh2002
+
   
 - Paleti Nikhil Chowdary
-- Aadharsh Aadhithya A 
+<details>
+<summary>Aadharsh Aadhithya A</summary>
 
->
+  * <a href="https://github.com/AadharshAadhithya">Github</a>
+ 
 
-[![alt text][1.1]][1.1.1]
-[![alt text][6.1]][6]
+
+  * <a href="https://www.linkedin.com/in/aadharsh-aadhithya-9a6982149/">Linkedin</a>
+ 
+
+  * <a href="https://twitter.com/Aadharsh2002">Twitter</a>
+ 
+
+  * <a href="https://www.instagram.com/aadharsh_aadhithya/">Instagram</a>
+ 
+
+
+</details>
+
+
+
 
 
