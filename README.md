@@ -6,7 +6,25 @@ A NLP Processing pipeline in Java.
 
 
   
-- Paleti Nikhil Chowdary
+
+<details>
+<summary> Paleti Nikhil Chowdary</summary>
+
+  * <a href="https://github.com/Nikhil-Paleti">Github</a>
+ 
+
+
+  * <a href="#">Linkedin</a>
+ 
+
+  * <a href="#2">Twitter</a>
+ 
+
+  * <a href="https://www.instagram.com/nikhil623129/">Instagram</a>
+ 
+
+
+</details>
 <details>
 <summary>Aadharsh Aadhithya A</summary>
 
