@@ -51,6 +51,8 @@ A NLP Processing pipeline in Java.
   * <a href="https://www.facebook.com/anirudhedpuganti/">Facebook</a> 
 
   * <a href="https://www.instagram.com/anirudhedpuganti/">Instagram</a>
+  
+  * <a href="https://www.linkedin.com/in/edpuganti-anirudh-4755b2205/">Linkedin</a>
 
 
 
