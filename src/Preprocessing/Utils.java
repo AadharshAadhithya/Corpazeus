@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Utils {
 	
-	public  String readFile(String path) throws FileNotFoundException {
+	public  static String readFile(String path) throws FileNotFoundException {
 		File Corpus = new File(path);
 		Scanner scan = new Scanner(Corpus);
 		
