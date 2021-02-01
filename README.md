@@ -43,6 +43,14 @@ A NLP Processing pipeline in Java.
 
 
 </details>
+<details>
+<summary> Anirudh Edpuganti</summary>
+
+  * <a href="https://github.com/ANIRUDH-333">Github</a>
+  
+  * <a href="https://www.facebook.com/anirudhedpuganti/">Facebook</a> 
+
+  * <a href="https://www.instagram.com/anirudhedpuganti/">Instagram</a>
 
 
 
