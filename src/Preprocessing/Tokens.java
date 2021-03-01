@@ -6,14 +6,14 @@ import java.util.ArrayList ;
 public class Tokens {
 	
 	ArrayList<String> tokens ;
-	String raw;
+	Corpus parentCorpus;
 	Stopwords stopwords;
 
 	
 	public Tokens(Corpus corpus) {
 		
 		this.stopwords = corpus.stopwords;
-		this.raw = corpus.raw;
+		this.parentCorpus = corpus;
 		this.tokens = this.tokenify();
 		
 		
@@ -31,18 +31,18 @@ public class Tokens {
 	public  ArrayList<String>  tokenify() {
 		ArrayList<String> tokens = new ArrayList<String>();
 	 
-        if (this.raw == null) {
+        if (this.parentCorpus.raw == null) {
             return tokens;
         }
         BreakIterator boundary = BreakIterator.getWordInstance();
-        boundary.setText(this.raw);
+        boundary.setText(this.parentCorpus.raw);
         int start = boundary.first();
         for (int end = boundary.next(); 
                 end != BreakIterator.DONE;
                 start = end, end = boundary.next()) {
-            if (isWordCharacter(this.raw.charAt(start))) {
+            if (isWordCharacter(this.parentCorpus.raw.charAt(start))) {
                 String word = 
-                    new String(this.raw.substring(start, end).toLowerCase()).intern();
+                    new String(this.parentCorpus.raw.substring(start, end).toLowerCase()).intern();
                 if (this.stopwords != null && this.stopwords.isStopword(word)) {
                     continue;
                 }
@@ -52,7 +52,17 @@ public class Tokens {
        return tokens;
     } 
 		
-		
+	public String toString() 
+    { 
+		StringBuilder sb = new StringBuilder();
+		for (String s : this.tokens)
+		{
+			sb.append(this.parentCorpus.TokenPaddingStart);
+		    sb.append(s);
+		    sb.append(this.parentCorpus.TokenPaddingEnd);
+		}
+        return sb.toString(); 
+    } 
 	
 } 
 

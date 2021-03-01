@@ -10,7 +10,7 @@ public class Utils {
 		 * of the file.
 		 */
 		
-		Scanner scan = new Scanner(Corpus);//Using to scan each line of the file
+		Scanner scan = new Scanner(Corpus,"UTF-8");//Using to scan each line of the file
 		
 		String raw = "";
 		
@@ -25,8 +25,5 @@ public class Utils {
 	
 	//overloaded sentencify function , that takes in a Prerocessing.Corpus or Java.lang.String and returns a Preprocessing.Sentences object
 	
-	public static void sentencify(String raw) {;} // must change to return type Preprocessing.Sentences when implementing
-	
-	public static void sentencify(Corpus corpus) {;} // must change to return type Preprocessing.Sentences when implementing
 	
 }
