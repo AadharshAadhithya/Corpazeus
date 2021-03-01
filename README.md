@@ -51,8 +51,20 @@ A NLP Processing pipeline in Java.
   * <a href="https://www.facebook.com/anirudhedpuganti/">Facebook</a> 
 
   * <a href="https://www.instagram.com/anirudhedpuganti/">Instagram</a>
+  
+  * <a href="https://www.linkedin.com/in/edpuganti-anirudh-4755b2205/">Linkedin</a>
 
 
 
 
+</details>
+<details>
+<summary>Chaitanya Reddy</summary>
 
+  * <a href="https://github.com/Chaitanyareddy0702">Github</a>
+  
+  * <a href="https://www.facebook.com/Rock-Chaitanya-Reddy/">Facebook</a> 
+
+  * <a href="https://www.instagram.com/__chaitanya.reddy__/">Instagram</a>
+  
+  * <a href="https://www.linkedin.com/in/chaitanya-reddy-0702/">Linkedin</a>
