@@ -1,5 +1,5 @@
 # Corpazeus
-A NLP Processing pipeline in Java.
+![logo](corpazeuslogo.png)
 
 ---
 ## Contributors
