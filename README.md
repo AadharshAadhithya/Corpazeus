@@ -68,3 +68,18 @@
   * <a href="https://www.instagram.com/__chaitanya.reddy__/">Instagram</a>
   
   * <a href="https://www.linkedin.com/in/chaitanya-reddy-0702/">Linkedin</a>
+
+
+  </details>
+<details>
+<summary>Madhav Kishor</summary>
+
+  * <a href="https://github.com/madhavkishorrr">Github</a>
+ 
+
+
+  * <a href="https://www.linkedin.com/in/madhavkishorrr">Linkedin</a>
+ 
+
+  * <a href="https://twitter.com/madhavkishorrr">Twitter</a>
+ 
